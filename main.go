@@ -15,9 +15,7 @@ import (
 func main() {
 	// Array of image URLs
 	imageUrls := []string{
-		"https://play-lh.googleusercontent.com/oFf8seyX0_gbEM0UFltiDkmiDqwy6VsD2rwMq1CR8wUSIgQRL4VdU_944gFGF0PiDpcy",
-		"https://play-lh.googleusercontent.com/a3uxiTZu-JRRncw8_tGurtwkmyxYEroykNXYReM5WPbVzyxX-et4eNiqjg0XK8iuvLYX",
-		"https://play-lh.googleusercontent.com/MwDsU-goAWUoF99n7zAgEkWOmB5yUuUefLpu8Luo6tPPi_Hbqu2tgZGNUbpgXVm0_ZcX",
+		"https://example.com/image1.png",
 		// Add more URLs as needed...
 	}
 
